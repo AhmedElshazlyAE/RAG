@@ -1,2 +1,15 @@
-langchain
+numpy
+pandas
 pypdf
+sentence-transformers
+faiss-cpu
+python-dotenv
+google-generativeai
+streamlit
+tqdm
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+langchain-google-genai
+chromadb
